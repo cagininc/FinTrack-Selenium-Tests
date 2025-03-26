@@ -1,0 +1,5 @@
+/Users/caginince/Desktop/FinTrack/Tests/e2e/obj/Debug/net9.0/e2e.csproj.AssemblyReference.cache
+/Users/caginince/Desktop/FinTrack/Tests/e2e/obj/Debug/net9.0/e2e.GeneratedMSBuildEditorConfig.editorconfig
+/Users/caginince/Desktop/FinTrack/Tests/e2e/obj/Debug/net9.0/e2e.AssemblyInfoInputs.cache
+/Users/caginince/Desktop/FinTrack/Tests/e2e/obj/Debug/net9.0/e2e.AssemblyInfo.cs
+/Users/caginince/Desktop/FinTrack/Tests/e2e/obj/Debug/net9.0/e2e.csproj.CoreCompileInputs.cache
